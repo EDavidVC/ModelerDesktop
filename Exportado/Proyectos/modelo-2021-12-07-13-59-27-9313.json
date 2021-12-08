@@ -1,0 +1,10 @@
+{
+  "typeProjectID": "door",
+  "templateSelectedID": "simpleDoor",
+  "parts": [
+    "simpleDoor_body_tp1",
+    "simpleDoor_midle_security_tp1",
+    "simpleDoor_partdown_tp1",
+    "simpleDoor_partup_tp1"
+  ]
+}
